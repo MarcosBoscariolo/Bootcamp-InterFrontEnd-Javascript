@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    background-color: rgb(235, 255, 252);
+}
+
+h1, h3{
+    margin: 0px;
+    color: rgb(73, 73, 73);
+}
+
+h1, .dio{
+    padding: 5.70rem;
+}
+
+/* Texto degradê */
+.dio{
+    background-image: linear-gradient(to right, rgb(113, 137, 241), rgb(95, 73, 165), rgb(255, 4, 88));
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid lightcoral;
+    background-color: rgb(241, 214, 214);
+    color: lightcoral;
+    font-size: 16pt;
+    font-weight: 600;
+    text-align: center;
+}
+
+button:hover{
+    background-color:  lightblue;
+    border-color: lightslategray;
+}
+
+button:active{
+    background-color: mintcream;
+    color: gray;
+}
+
+#counter {
+    display: flex;
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+}
+
+h3{
+    text-align: center;
+}
+
+div{
+    padding: 1.25rem;
+    justify-self: center;
+}
