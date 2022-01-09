@@ -6,3 +6,4 @@ Projetos realizados em Javascript durante o Bootcamp Inter Frontend Developer, p
 * Calculadora
 * Sintaxe e Operadores
 * Palíndromo
+* Substituir Pares
