@@ -5,3 +5,4 @@ Projetos realizados em Javascript durante o Bootcamp Inter Frontend Developer, p
 * To-Do list
 * Calculadora
 * Sintaxe e Operadores
+* Palíndromo
