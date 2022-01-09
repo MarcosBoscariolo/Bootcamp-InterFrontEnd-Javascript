@@ -1,7 +1,7 @@
 # Sintaxe e Operadores
 Exercício prático sobre sintaxe e operadores em Javascript
 
-##Intro
+## Intro
 Input de dois números em uma página web, o script retorna se os números são iguais ou não, confere se a soma dos números é maior que 10 ou menor que 20 e retorna essas comparações em apenas uma string.
 
 ### Exemplo: 
